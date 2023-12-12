@@ -8,3 +8,6 @@ git init
 git stats
 gis push
 ```
+- [ ] lista 
+- [ ] ordenada
+- [ ] desordenada
